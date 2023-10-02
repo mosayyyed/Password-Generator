@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Random Password Generator</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" href="images/icon.png">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css" integrity="sha512-MV7K8+y+gLIBoVD59lQIYicR65iaqukzvf/nwasF0nqhPay5w/9lJmVM2hMDcnK1OnMGCdVK+iQrJ7lzPJQd1w==" crossorigin="anonymous" referrerpolicy="no-referrer">
+</head>
+<body>
+    <section>
+        <div class="container">
+            <h1>Keep your accounts safe with unique,<span>randomly generated passwords</span></h1>
+            <div class="dispaly">
+                <input type="text" id="password" placeholder="Password">
+                <i class="fa-solid fa-copy" onclick="copyPassword()"></i>
+            </div>
+            <button onclick="createPassword()"><i class="fa-solid fa-robot"></i>Generate Password</button>
+            
+        </div>
+    </section>
+    <footer class="footer">
+        <P class="footer-title"><i class="fa-regular fa-copyright"></i> <span>Mohamed Elsayed</span> </P>
+        <div class="social-icons">
+            <a href="mailto:mosayed@gmail.com"><i class="fa-regular fa-envelope"></i></a>
+            <a href="https://www.linkedin.com/in/mosayyyed/" target="_blank"><i class="fa-brands fa-linkedin-in"></i></a>
+            <a href="https://github.com/mosayyyed" target="_blank"><i class="fa-brands fa-github"></i></a>
+            <a href="https://www.facebook.com/mosayyyed" target="_blank"><i class="fa-brands fa-facebook"></i></a>
+            <a href="https://www.instagram.com/mosayyyed/" target="_parent"><i class="fa-brands fa-instagram"></i></a>
+        </div>   
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>
