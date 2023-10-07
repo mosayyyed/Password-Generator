@@ -33,7 +33,6 @@ function createPassword(){
     
     passwordBox.value = password;
 }
-A
     
 
 function copyPassword(){
