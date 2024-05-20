@@ -4,7 +4,7 @@ Keep your accounts safe with unique, randomly generated passwords.
 
 ## Usage
 
-1. Open `https://mosayyyed.github.io/Password-Generator` in a web browser.
+1. Visit the [Password Generator](https://mosayyyed.github.io/Password-Generator) website to try it out.
 2. Click the "Generate Password" button to create a new random password.
 3. The generated password will be displayed in the input field.
 4. Click the copy icon to copy the generated password.
