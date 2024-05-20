@@ -19,8 +19,6 @@ Keep your accounts safe with unique, randomly generated passwords.
 
 **Mohamed Elsayed**  
 
-- Email: [mosayed@gmail.com](mailto:mosayed@gmail.com)
-- LinkedIn: [mosayyyed](https://www.linkedin.com/in/mosayyyed/)
-- GitHub: [mosayyyed](https://github.com/mosayyyed)
-- Facebook: [mosayyyed](https://www.facebook.com/mosayyyed)
-- Instagram: [mosayyyed](https://www.instagram.com/mosayyyed/)
+[![LinkedIn](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg)](https://linkedin.com/in/mosayyyed)
+[![Gmail](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg)](mailto:mosayyyed@gmail.com)
+[![Facebook](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg)](https://facebook.com/mosayyyed)
